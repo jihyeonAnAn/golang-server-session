@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jihyeonAnAn/golang-server-session/week2/example"
+	"github.com/jihyeonAnAn/golang-server-session/week2/lab"
 )
 
 func main() {
@@ -15,5 +15,8 @@ func main() {
 	//example.Code228()
 	//example.Code229()
 	//example.Code300()
-	example.Code320()
+	//example.Code320()
+	//lab.Lab_1()
+	//lab.Lab_2()
+	lab.Lab_3()
 }
