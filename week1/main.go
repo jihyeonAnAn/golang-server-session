@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	//exercise.Exec1()
-	//exercise.Exec2()
+	//example.Exec1()
+	//example.Exec2()
 	exercise.Exec3()
 }
